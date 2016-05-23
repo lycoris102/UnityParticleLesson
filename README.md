@@ -69,3 +69,7 @@ VFX（ブイエフエックス）とは、Visual Effects（ビジュアル・エ
 - Shuriken側のSizeで調整
   - http://posposi.blog.fc2.com/blog-entry-292.html
 - [Particle Scaler](https://www.assetstore.unity3d.com/jp/#!/content/4400)を使う
+
+## 素材
+- 爆発音: 魔王魂
+  - http://maoudamashii.jokersounds.com/archives/se_maoudamashii_explosion04.html
