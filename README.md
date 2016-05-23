@@ -49,7 +49,13 @@ VFX（ブイエフエックス）とは、Visual Effects（ビジュアル・エ
 - Particleの各種設定を変更する
 
 ## 爆発を作る
-- FIXME
+### サンプルを見る
+- 適当なUnityProjectを作成
+- パッケージを[DL](https://github.com/lycoris102/UnityParticleLesson/raw/master/UnityParticleLesson.unitypackage)
+- unitypackageを実行
+- 全てインポート
+
+### FIXME
 
 ## FAQ
 ### 良いパーティクルを作るコツ
